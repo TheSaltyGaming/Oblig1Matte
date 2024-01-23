@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc73bdee-3b1f-4859-80cd-00ccc57df182" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Oblig1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Oblig1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NewtonTest/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Oblig1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NewtonTest/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Oblig1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NewtonTest/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Oblig1/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Oblig1.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/NewtonTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/Oppgave1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/NewtonTest.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/Oppgave1.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/NewtonTest.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/NewtonTest.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/datapunkter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/datapunkter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/test.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/x64/Debug/NewtonTest.exe.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/x64/Debug/NewtonTest.exe.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/x64/Debug/NewtonTest.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/x64/Debug/NewtonTest.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/x64/Debug/NewtonTest.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/x64/Debug/NewtonTest.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/x64/Debug/NewtonTest.tlog/Cl.items.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/x64/Debug/NewtonTest.tlog/Cl.items.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/x64/Debug/NewtonTest.tlog/NewtonTest.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/x64/Debug/NewtonTest.tlog/NewtonTest.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/x64/Debug/NewtonTest.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/x64/Debug/NewtonTest.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/x64/Debug/NewtonTest.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/x64/Debug/NewtonTest.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/x64/Debug/NewtonTest.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/x64/Debug/NewtonTest.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/x64/Debug/NewtonTest.tlog/unsuccessfulbuild" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/x64/Debug/NewtonTest.tlog/unsuccessfulbuild" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonTest/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Oppgave1/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/NewtonTest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/NewtonTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/Oppgave1.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Oppgave1/Oppgave1.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ai8Sk5a0k9zF1DbbppG4W76ilD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Ander\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Ander\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\Ander\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="NewtonTest" type="CppProject" factoryName="C++ Project">
+      <configuration_1>
+        <option name="CONFIGURATION" value="Debug" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/NewtonTest/NewtonTest.vcxproj" />
+        <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_1>
+      <configuration_2>
+        <option name="CONFIGURATION" value="Debug" />
+        <option name="PLATFORM" value="x64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/NewtonTest/NewtonTest.vcxproj" />
+        <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_2>
+      <configuration_3>
+        <option name="CONFIGURATION" value="Release" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/NewtonTest/NewtonTest.vcxproj" />
+        <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_3>
+      <configuration_4>
+        <option name="CONFIGURATION" value="Release" />
+        <option name="PLATFORM" value="x64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/NewtonTest/NewtonTest.vcxproj" />
+        <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_4>
+      <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Oppgave1/Oppgave1.vcxproj" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc73bdee-3b1f-4859-80cd-00ccc57df182" name="Changes" comment="" />
+      <created>1689432754792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689432754792</updated>
+      <workItem from="1704790044509" duration="3115000" />
+      <workItem from="1705389885635" duration="2164000" />
+      <workItem from="1705397807475" duration="523000" />
+      <workItem from="1706010873444" duration="2138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
