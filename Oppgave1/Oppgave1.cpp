@@ -12,7 +12,6 @@ struct Vertex
 };
 
 long double f(double x) {
-    // Eksempel: f(x) = x^2
     return x * x;
 }
 
@@ -29,7 +28,7 @@ int main(int argc, char* argv[])
 
     if (dataFile.is_open()) {
         // Skriv datapunkter til filen
-        for (int i = 0; i < num_points; ++i) {
+        for (int i = 0; i < num_points+1; ++i) {
             long double x = a + i * (b - a) / (num_points - 1); // Beregn x-verdien
             long double y = f(x); // Beregn tilhørende y-verdi ved å evaluere f(x)
 

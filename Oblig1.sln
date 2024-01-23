@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NewtonTest", "NewtonTest\NewtonTest.vcxproj", "{0A2958D8-D1BD-4A50-BD89-753A754E543D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Oppgave1", "Oppgave1\Oppgave1.vcxproj", "{0A2958D8-D1BD-4A50-BD89-753A754E543D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
