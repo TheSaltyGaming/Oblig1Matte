@@ -41,6 +41,7 @@ void PrintDatafil(long double a, long double b, int num_points, long double h)
             Vertex vertex;
             vertex.x = x;
             vertex.y = y;
+            vertex.z = 0.0f;
             if (dy >= 0) {
                 vertex.r = 0.0f;
                 vertex.g = 1.0f;
@@ -55,7 +56,9 @@ void PrintDatafil(long double a, long double b, int num_points, long double h)
             
 
             // Skriv datapunktet til filen i formatet x, y
-            dataFile <<"X: " << x << ", " << "Y: " << y << ", " << "dy: " << dy << std::endl;
+            //dataFile <<"X: " << x << ", " << "Y: " << y << ", " << "dy: " << dy << std::endl;
+            dataFile <<"X: " << vertex.x << ", " << "Y: " << vertex.y << ", " << "Z: " << vertex.z << ", " << "dy: " << dy << ", " << "r: " << vertex.r << ", " << "g: " << vertex.g << ", " << "b: " << vertex.b << std::endl;
+
         }
 
         // Lukk filen
@@ -77,39 +80,3 @@ int main(int argc, char* argv[])
     PrintDatafil(a, b, num_points, h);
     return 0;
 }
-
-
-
-// float test()
-// {
-//     Vertex vertex;
-//     float h = 0.1f;
-//     for (int i = 0; i < 51; ++i)
-//     {
-//         float x = i*h;
-//         float y = x*x;
-//     }
-//     float x0, x1, y0, y1;
-//     //regne ut y=x*x for 0.0 til 5.0.
-//     for (int i = 1; i < 51; ++i)
-//     {
-//         x1 = i*h;
-//         y1 = x1*x1;
-//         vertex.x = x0;
-//         vertex.y = y0;
-//
-//         if (y1 > y0)
-//         {
-//             vertex.r = 1.0f;
-//             vertex.g = 0.0f;
-//             vertex.b = 0.0f;
-//         }
-//         else
-//         {
-//             vertex.r = 0.0f;
-//             vertex.g = 1.0f;
-//             vertex.b = 0.0f;
-//         }
-//         mVertices.push_back(vertex);
-//     }
-// }
