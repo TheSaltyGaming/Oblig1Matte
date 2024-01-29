@@ -21,7 +21,7 @@ void PrintDatafil(std::vector<Vertex> spiralPoints)
         for (int i = 0; i < spiralPoints.size(); ++i) {
             Vertex vertex = spiralPoints[i];
             // Skriv datapunktet til filen i formatet x, y
-            dataFile <<"X: " << vertex.x << ", " << "Y: " << vertex.y << ", " << "Z: " << vertex.z << ", " << "r: " << vertex.r << ", " << "g: " << vertex.g << ", " << "b: " << vertex.b << std::endl;
+            dataFile <<"X: " << vertex.x << ", " << "Y: " << vertex.z << ", " << "Z: " << vertex.y << ", " << "r: " << vertex.r << ", " << "g: " << vertex.g << ", " << "b: " << vertex.b << std::endl;
         }
 
         // Lukk filen
