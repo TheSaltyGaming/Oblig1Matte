@@ -41,9 +41,7 @@ std::vector<Vertex> generateSpiralPoints(float radius, float start, float end, f
         vertex.x = radius * cos(t);
         vertex.y = radius * sin(t);
         vertex.z = t;
-
-        // You can set the color attributes (r, g, b) here if you want
-        // For example, let's set them to 1.0f
+        
         vertex.r = 1.0f;
         vertex.g = 1.0f;
         vertex.b = 1.0f;
@@ -62,8 +60,6 @@ int main(int argc, char* argv[]) {
 
     std::vector<Vertex> spiralPoints = generateSpiralPoints(radius, start, end, step);
     PrintDatafil(spiralPoints);
-
-    // Now you can use the spiralPoints vector as you wish
 
     return 0;
 }

@@ -33,9 +33,9 @@ void PrintDatafil(long double a, long double b, int num_points, long double h)
         // Skriv datapunkter til filen
         for (int i = 0; i < num_points+1; ++i) {
             long double x = a + i * h; // Beregn x-verdien
-            long double y = f(x); // Beregn tilhørende y-verdi ved å evaluere f(x)
+            long double y = f(x); // Beregn y-verdien
 
-            //find derivative point
+            //deriver
             long double dy = df(x, h);
 
             Vertex vertex;
@@ -52,11 +52,7 @@ void PrintDatafil(long double a, long double b, int num_points, long double h)
                 vertex.b = 0.0f;
             }
             mVertices.push_back(vertex);
-
             
-
-            // Skriv datapunktet til filen i formatet x, y
-            //dataFile <<"X: " << x << ", " << "Y: " << y << ", " << "dy: " << dy << std::endl;
             dataFile <<"X: " << vertex.x << ", " << "Y: " << vertex.y << ", " << "Z: " << vertex.z << ", " << "r: " << vertex.r << ", " << "g: " << vertex.g << ", " << "b: " << vertex.b << std::endl;
 
         }
