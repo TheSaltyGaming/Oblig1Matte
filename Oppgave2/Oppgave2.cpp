@@ -41,6 +41,7 @@ std::vector<Vertex> generateSpiralPoints(float radius, float start, float end, f
         vertex.x = radius * cos(t);
         vertex.y = radius * sin(t);
         vertex.z = t;
+
         
         vertex.r = 1.0f;
         vertex.g = 1.0f;
