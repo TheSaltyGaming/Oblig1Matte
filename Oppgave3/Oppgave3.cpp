@@ -56,7 +56,7 @@ void PrintDatafil(long double a, long double b, int num_points, long double h)
                 }
                 mVertices.push_back(vertex);
 
-                dataFile <<"X: " << vertex.x << ", " << "Y: " << vertex.y << ", " << "Z: " << vertex.z << ", " << "dx: " << dx << ", " << "dy: " << dy << ", " << "r: " << vertex.r << ", " << "g: " << vertex.g << ", " << "b: " << vertex.b << std::endl;
+                dataFile <<"X: " << vertex.x << ", " << "Y: " << vertex.y << ", " << "Z: " << vertex.z << ", " << "r: " << vertex.r << ", " << "g: " << vertex.g << ", " << "b: " << vertex.b << std::endl;
             }
         }
 

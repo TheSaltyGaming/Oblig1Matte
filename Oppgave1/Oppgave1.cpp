@@ -57,7 +57,7 @@ void PrintDatafil(long double a, long double b, int num_points, long double h)
 
             // Skriv datapunktet til filen i formatet x, y
             //dataFile <<"X: " << x << ", " << "Y: " << y << ", " << "dy: " << dy << std::endl;
-            dataFile <<"X: " << vertex.x << ", " << "Y: " << vertex.y << ", " << "Z: " << vertex.z << ", " << "dy: " << dy << ", " << "r: " << vertex.r << ", " << "g: " << vertex.g << ", " << "b: " << vertex.b << std::endl;
+            dataFile <<"X: " << vertex.x << ", " << "Y: " << vertex.y << ", " << "Z: " << vertex.z << ", " << "r: " << vertex.r << ", " << "g: " << vertex.g << ", " << "b: " << vertex.b << std::endl;
 
         }
 
